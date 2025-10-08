@@ -1,4 +1,4 @@
-# Angular Template Creation: <a href="https://jmmonjeremy.github.io/project-template/" target="_blank">Wk1 Section1 Task1</a>
+# Angular Recipe & Shopping List App: <a href="https://jmmonjeremy.github.io/w2s3-recipe-shopping-list-project/" target="_blank">Wk1 Section2 Project</a>
 Repository for my BYUI WDD 430 Web Full-Stack Development class
 # ProjectTemplate
 
